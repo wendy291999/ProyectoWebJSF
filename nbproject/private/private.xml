@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/chucho/Documents/workspace/wendys/persons-web-jsf/web/home.xhtml</file>
+            <file>file:/home/chucho/Documents/workspace/wendys/persons-web-jsf/src/java/persistence/PersonDAO.java</file>
+            <file>file:/home/chucho/Documents/workspace/wendys/persons-web-jsf/web/WEB-INF/web.xml</file>
+            <file>file:/home/chucho/Documents/workspace/wendys/persons-web-jsf/src/java/utils/HibernateUtil.java</file>
+            <file>file:/home/chucho/Documents/workspace/wendys/persons-web-jsf/src/java/utils/SessionUtils.java</file>
+            <file>file:/home/chucho/Documents/workspace/wendys/persons-web-jsf/src/java/beans/PersonBean.java</file>
+            <file>file:/home/chucho/Documents/workspace/wendys/persons-web-jsf/src/java/model/User.java</file>
+            <file>file:/home/chucho/Documents/workspace/wendys/persons-web-jsf/src/java/model/Person.java</file>
+            <file>file:/home/chucho/Documents/workspace/wendys/persons-web-jsf/src/java/utils/AuthorizationListener.java</file>
+            <file>file:/home/chucho/Documents/workspace/wendys/persons-web-jsf/web/WEB-INF/faces-config.xml</file>
+        </group>
+    </open-files>
+</project-private>
